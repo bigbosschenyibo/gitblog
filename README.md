@@ -2,11 +2,13 @@
 ## 置顶文章
 - [第一个博客](https://github.com/bigbosschenyibo/gitblog/issues/1)--2024-11-02
 ## 最近更新
+- [C# 缓存帮助类MemoryCacheHelper](https://github.com/bigbosschenyibo/gitblog/issues/5)--2024-11-03
 - [WPF 在Canvas上用鼠标拖拽画出矩形](https://github.com/bigbosschenyibo/gitblog/issues/3)--2024-11-03
 - [C# double好用的扩展](https://github.com/bigbosschenyibo/gitblog/issues/4)--2024-11-03
 - [补数的引入](https://github.com/bigbosschenyibo/gitblog/issues/2)--2024-11-02
 - [第一个博客](https://github.com/bigbosschenyibo/gitblog/issues/1)--2024-11-02
 ## csharp
+- [C# 缓存帮助类MemoryCacheHelper](https://github.com/bigbosschenyibo/gitblog/issues/5)--2024-11-03
 - [C# double好用的扩展](https://github.com/bigbosschenyibo/gitblog/issues/4)--2024-11-03
 ## wpf
 - [WPF 在Canvas上用鼠标拖拽画出矩形](https://github.com/bigbosschenyibo/gitblog/issues/3)--2024-11-03
