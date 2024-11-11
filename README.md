@@ -10,12 +10,19 @@
 ## Task
 - [C# 如何在异步任务中调用及取消一个长时间运行的同步方法](https://github.com/bigbosschenyibo/gitblog/issues/8)--2024-11-07
 - [C# 如何优雅地取消正在运行的任务](https://github.com/bigbosschenyibo/gitblog/issues/7)--2024-11-07
+## WeakEvent
+- [C# 弱事件模式](https://github.com/bigbosschenyibo/gitblog/issues/9)--2024-11-11
 ## csharp
+- [C# 弱事件模式](https://github.com/bigbosschenyibo/gitblog/issues/9)--2024-11-11
 - [C# 如何在异步任务中调用及取消一个长时间运行的同步方法](https://github.com/bigbosschenyibo/gitblog/issues/8)--2024-11-07
 - [C# 如何优雅地取消正在运行的任务](https://github.com/bigbosschenyibo/gitblog/issues/7)--2024-11-07
 - [C# HttpClientHandler 处理超时、日志、失败重试等](https://github.com/bigbosschenyibo/gitblog/issues/6)--2024-11-06
 - [C# 缓存帮助类MemoryCacheHelper](https://github.com/bigbosschenyibo/gitblog/issues/5)--2024-11-03
+<details><summary>显示更多</summary>
+
 - [C# double好用的扩展](https://github.com/bigbosschenyibo/gitblog/issues/4)--2024-11-03
+</details>
+
 ## wpf
 - [WPF 在Canvas上用鼠标拖拽画出矩形](https://github.com/bigbosschenyibo/gitblog/issues/3)--2024-11-03
 ## 笔记
